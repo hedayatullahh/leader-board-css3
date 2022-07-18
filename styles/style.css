@@ -175,6 +175,9 @@ ul, li{
  /* mobile devices */
 
  @media screen and (max-width:688px) {
+    header{
+        width: 100%;
+    }
     .container{
         width: 100%;
     }
